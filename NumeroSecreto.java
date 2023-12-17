@@ -13,7 +13,7 @@ public class NumeroSecreto {
 			System.out.println("Adivina el número (del 1 al 10): ");
 			int numIntento = teclado.nextInt();
 			if (numIntento == numSecreto) {
-				System.out.printf("FELICIDADES has acertado el número %4d", numSecreto);
+				System.out.printf("\n\033[31m]FELICIDADES has acertado el número %4d", numSecreto);
 				acierto = true;
 			} else
 				numIntentos--;
