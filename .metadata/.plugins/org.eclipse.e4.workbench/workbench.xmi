@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_ObGvoZwQEe6Vw6BAZmRGwg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ObGvopwQEe6Vw6BAZmRGwg" bindingContexts="_ObGvq5wQEe6Vw6BAZmRGwg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CuentaAtrasWhile.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\CuentaAtrasWhile.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/CuentaAtrasWhile.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ResaltaMultiplos.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\ResaltaMultiplos.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/ResaltaMultiplos.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.mylyn.wikitext.ui.editor.markupEditor&quot; name=&quot;README.md&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\README.md&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/README.md&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;NumeroSecreto.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\NumeroSecreto.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/NumeroSecreto.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CuentaAtrasWhile.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\CuentaAtrasWhile.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/CuentaAtrasWhile.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ResaltaMultiplos.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\ResaltaMultiplos.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/ResaltaMultiplos.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ObGvopwQEe6Vw6BAZmRGwg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_QWPmppwQEe6Vw6BAZmRGwg" label="%trimmedwindow.label.eclipseSDK" x="192" y="192" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ObGvopwQEe6Vw6BAZmRGwg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_QWPmppwQEe6Vw6BAZmRGwg" label="%trimmedwindow.label.eclipseSDK" x="27" y="179" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -199,7 +199,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_QwHfMJwQEe6Vw6BAZmRGwg" elementId="org.eclipse.ui.editorss" selectedElement="_QwHfMZwQEe6Vw6BAZmRGwg">
-      <children xsi:type="basic:PartStack" xmi:id="_QwHfMZwQEe6Vw6BAZmRGwg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_WrGP4JwQEe6Vw6BAZmRGwg">
+      <children xsi:type="basic:PartStack" xmi:id="_QwHfMZwQEe6Vw6BAZmRGwg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_PyCzEJ0xEe6E7q40j1Mz3A">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -214,6 +214,18 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_zXlL8JzgEe6TLf455L8tMw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="NumeroSecreto.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;NumeroSecreto.java&quot; partName=&quot;NumeroSecreto.java&quot; title=&quot;NumeroSecreto.java&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\NumeroSecreto.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/NumeroSecreto.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;26&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;594&quot; selectionTopPixel=&quot;29&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_PyCzEJ0xEe6E7q40j1Mz3A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="README.md" iconURI="platform:/plugin/org.eclipse.mylyn.wikitext.ui/icons/editor-icon.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.mylyn.wikitext.ui.editor.markupEditor&quot; name=&quot;README.md&quot; partName=&quot;README.md&quot; title=&quot;README.md&quot; tooltip=&quot;F:\MATERIAS\Entornos\ejerciciosdeclase2\README.md&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/F:/MATERIAS/Entornos/ejerciciosdeclase2/README.md&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.mylyn.wikitext.ui.editor.markupEditor</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
         </children>
@@ -346,7 +358,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QesYAJwQEe6Vw6BAZmRGwg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_P9e8wJzeEe6h_NTYTRWUOA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_OeO9o5wQEe6Vw6BAZmRGwg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_OJuxcJ0xEe6E7q40j1Mz3A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_OeO9o5wQEe6Vw6BAZmRGwg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QesYAZwQEe6Vw6BAZmRGwg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -377,7 +389,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QesYCJwQEe6Vw6BAZmRGwg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_P9e8zZzeEe6h_NTYTRWUOA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OeO9HZwQEe6Vw6BAZmRGwg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_OJ04EJ0xEe6E7q40j1Mz3A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OeO9HZwQEe6Vw6BAZmRGwg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_QesYCZwQEe6Vw6BAZmRGwg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
